@@ -86,18 +86,6 @@ print("Predictions:", predictions)
 
 ---
 
-## 🧩 Contributing
-
-We welcome contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
-
----
-
-## 🛡 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🤝 Acknowledgements
 
 Inspired by quantum computing and machine learning principles.
