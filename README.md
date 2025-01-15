@@ -26,7 +26,7 @@ pip install qnn
 For the latest development version, you can clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/qnn.git
+git clone https://github.com/blackstonecan/qnn.git
 cd qnn
 pip install -e .
 ```
